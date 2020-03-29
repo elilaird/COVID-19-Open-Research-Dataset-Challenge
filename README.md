@@ -1,11 +1,6 @@
 # COVID-19-Open-Research-Dataset-Challenge
 
 
-
-#LDA Results
-
-https://github.com/elilaird/COVID-19-Open-Research-Dataset-Challenge/blob/master/ldavisualization_50.html
-
 CORD-19 Initial Notes
 
 
