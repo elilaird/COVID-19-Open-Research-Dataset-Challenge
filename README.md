@@ -2,7 +2,7 @@
 
 Eli Laird \
 SMU AI Lab \
-ejlaird@smu.edu \
+ejlaird@smu.edu 
 
 
 This repo contains our efforts to build Natural Language Processing tools to assist researchers around the world with processing ~51,000 research papers related to COVID-19 and similar coronaviruses. All work was done my several undergraduate members of the SMU AI Lab with the guidance of SMU AI Lab faculty. 
