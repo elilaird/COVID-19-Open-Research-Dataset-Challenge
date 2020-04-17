@@ -1,33 +1,14 @@
 # COVID-19-Open-Research-Dataset-Challenge
 
-
-CORD-19 Initial Notes
-
-
-* Tasks are evaluated by:
-    * Accuracy
-        * Did the participant accomplish the task?
-        * Did the participant discuss the pros and cons of their approach?
-    * Documentation
-        * Is the methodology well documented?
-        * Is the code easy to read and reuse?
-    * Presentation
-        * Did the participant communicate their findings in an effective manner?
-        * Did the participant make effective use of data visualizations?
-
-* Submission Deadlines
-    * Round 1: April 16
-    * Round 2: June 16
+Eli Laird
+SMU AI Lab
+ejlaird@smu.edu
 
 
-* Potential Avenues of Approach 
-    * Topic Modeling
-        * Each task if provided with task details which determine what topics are desired 
-        * Convert each “topic” in task details to a topic model THEN find topic matches (using some similarity measure) in the data
-    * Clustering/Dimensionality Reduction
-        * Autoencoders
-        * Pca, t-SNE
-        * Reduce the dims of the data into clusters to allow researchers to quickly search the dataset
-    * Combine both
-        * First cluster articles 
-        * Then define topics for each cluster
+This repo contains our efforts to build Natural Language Processing tools to assist researchers around the world with processing ~51,000 research papers related to COVID-19 and similar coronaviruses. All work was done my several undergraduate members of the SMU AI Lab with the guidance of SMU AI Lab faculty. 
+
+Note: This repo is a work in progress. The documentation is still light and unorganized. Please be patient for a final release of our work. 
+
+The dataset used in this repo is provided by the Allen Institute For AI and posted on Kaggle.com. The dataset can be found here: https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
+
+
